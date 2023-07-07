@@ -1,7 +1,4 @@
 # Language-Translator
-This repository contains a language translation application powered by GPT-3.5 Turbo
-
-GitHub Repository Description:
 
 This repository contains a language translation application powered by GPT-3.5 Turbo. With this application, users can easily translate text from one language to another using the state-of-the-art language model. The translation functionality is exposed through a user-friendly web interface built with Gradio.
 
